@@ -2,14 +2,12 @@
 
 # Hi, I'm Daniel Marinho
 
-### Computer Engineering Student | Backend | Python | Machine Learning | Flutter
+### Computer Engineering Student building practical software with Python, APIs, machine learning, and Flutter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3BA55D&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Backend+and+API+Developer;Python+%7C+Machine+Learning+%7C+Flutter;Open+to+Internships+and+Junior+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Python+%7C+Backend+%7C+Machine+Learning;Building+APIs%2C+automation%2C+and+mobile+apps;Open+to+internships+and+junior+opportunities)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/dmarinhoDKR?style=for-the-badge&color=0e75b6)](https://github.com/dmarinhoDKR)
-[![Profile Views](https://komarev.com/ghpvc/?username=dmarinhoDKR&style=for-the-badge&color=brightgreen)](https://github.com/dmarinhoDKR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
-[![Email](https://img.shields.io/badge/Email-danielmarinho.b.f%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
+[![Email](https://img.shields.io/badge/Email-danielmarinho.b.f%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
 
 </div>
 
@@ -17,9 +15,9 @@
 
 ## About Me
 
-I'm a Computer Engineering student at UNIFACS with a strong interest in backend development, APIs, machine learning, automation, cybersecurity, and mobile applications.
+I'm a Computer Engineering student at UNIFACS with a strong interest in backend development, machine learning, automation, cybersecurity, and mobile applications.
 
-I enjoy building practical solutions that connect software, data, and real user needs. I'm currently looking for internship and junior opportunities where I can keep learning and contribute with solid technical work, curiosity, and consistency.
+I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications. Right now, I'm looking for internship and junior opportunities where I can keep improving, contribute consistently, and gain hands-on experience with real products.
 
 - Based in Salvador, Bahia, Brazil
 - Advanced English
@@ -38,9 +36,10 @@ I enjoy building practical solutions that connect software, data, and real user 
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### [Phishing Detection Platform](https://github.com/dmarinhoDKR/phishing-detection-platform)
+
 An end-to-end phishing detection platform for URL and email analysis, combining machine learning, backend APIs, and multiple user interfaces.
 
 **Tech used**
@@ -53,14 +52,15 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 - Pytest
 
 **Highlights**
-- 3-level phishing risk classification
-- Backend API with FastAPI
-- Web, desktop, and mobile interfaces
-- Flutter app tested on a real Android device
-- SPF, DKIM, and DMARC-based email inspection
+- Built a phishing detection system with 3-level risk classification
+- Created a backend API with FastAPI
+- Developed web, desktop, and mobile interfaces
+- Delivered a Flutter app tested on a real Android device
+- Added SPF, DKIM, and DMARC-based email inspection
 
-### [More Projects on My GitHub](https://github.com/dmarinhoDKR?tab=repositories)
-I’m continuously building projects involving backend development, APIs, automation, machine learning, and practical software solutions.
+### [More Projects](https://github.com/dmarinhoDKR?tab=repositories)
+
+You can also find other repositories on my GitHub involving backend development, automation, machine learning, and practical software solutions.
 
 ---
 
@@ -94,8 +94,8 @@ I’m continuously building projects involving backend development, APIs, automa
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dmarinhoDKR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmarinhoDKR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dmarinhoDKR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarinhoDKR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
 
 </div>
