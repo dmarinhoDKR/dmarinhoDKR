@@ -60,8 +60,6 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ### [More Projects](https://github.com/dmarinhoDKR?tab=repositories)
 
-You can also find other repositories on my GitHub involving backend development, automation, machine learning, and practical software solutions.
-
 ---
 
 ## Skills
