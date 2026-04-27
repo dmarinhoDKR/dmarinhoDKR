@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student building practical software with Python, APIs, machine learning, and Flutter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Python+%7C+Backend+%7C+Machine+Learning;Building+APIs%2C+automation%2C+and+mobile+apps;Open+to+internships+and+junior+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering;Python+%7C+Backend+%7C+Data+Analysis;Building+APIs%2C+automation%2C+and+softwares;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
 [![Email](https://img.shields.io/badge/Email-danielmarinho.b.f%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
