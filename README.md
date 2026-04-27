@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student building practical software with Python, APIs, machine learning, and Flutter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering;Python+%7C+Backend+%7C+Data+Analysis;Building+APIs%2C+automation%2C+and+softwares;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering;Python+%7C+Backend+%7C+Data+Analysis%7C+MySQL;Building+APIs%2C+automation%2C+and+softwares;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
 [![Email](https://img.shields.io/badge/Email-danielmarinho.b.f%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
@@ -19,7 +19,7 @@ I'm a Computer Engineering student at UNIFACS with practice in data analysis, cy
 
 I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications.
 - Gym and gaming are my hobbies
-- Interested in fullstack, data, ML, cybersecurity, and software development
+- Interested in fullstack, data, MySQL, cybersecurity, and software development
 - Open to internships and junior roles
 
 ---
