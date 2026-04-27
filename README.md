@@ -83,10 +83,10 @@ You can also find other repositories on my GitHub involving backend development,
 
 ## Currently Learning
 
-- Backend architecture and scalable APIs
-- Data automation workflows
-- Mobile development with Flutter
-- Cybersecurity-related analysis and detection systems
+- Cybersecurity analysis, threat detection, and security-focused workflows
+- Software architecture, scalable backend systems, and API development
+- Data analysis, automation pipelines, and intelligence-driven reporting
+- Secure application design and practical monitoring solutions
 
 ---
 
@@ -94,7 +94,6 @@ You can also find other repositories on my GitHub involving backend development,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dmarinhoDKR-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dmarinhoDKR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
 
