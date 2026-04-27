@@ -15,13 +15,11 @@
 
 ## About Me
 
-I'm a Computer Engineering student at UNIFACS with a strong interest in backend development, machine learning, automation, cybersecurity, and mobile applications.
+I'm a Computer Engineering student at UNIFACS with practice in data analysis, cybersecurity, and software development.
 
-I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications. Right now, I'm looking for internship and junior opportunities where I can keep improving, contribute consistently, and gain hands-on experience with real products.
-
-- Based in Salvador, Bahia, Brazil
-- Advanced English
-- Interested in backend, data, ML, cybersecurity, and mobile development
+I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications.
+- Gym and gaming are my hobbies
+- Interested in fullstack, data, ML, cybersecurity, and software development
 - Open to internships and junior roles
 
 ---
@@ -30,7 +28,7 @@ I like building software that solves real problems and helps people in practical
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,mysql,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,sql,mysql,java,js,html,css)](https://skillicons.dev)
 
 </div>
 
