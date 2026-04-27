@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Marinho
 
-### Computer Engineering Student building practical software with Python, APIs, machine learning, and Flutter
+### Computer Engineering Student building practical software with Python, MySQL, Data Analysis, APIs and machine learning
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Engineering;Python+%7C+Backend+%7C+Data+Analysis%7C+MySQL;Building+softwares%2C+automation%2C+and+APIs;)](https://git.io/typing-svg)
 
