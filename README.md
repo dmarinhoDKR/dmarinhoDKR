@@ -45,9 +45,6 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ---
 
-
----
-
 ## Currently Learning
 
 - Software architecture, scalable backend systems, and API development
