@@ -51,7 +51,7 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 - FastAPI
 - Flutter
 - Streamlit
-- SQL / MySQL
+- MySQL
 - Git
 - Machine Learning
 - API Development
