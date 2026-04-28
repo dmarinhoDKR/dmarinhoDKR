@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at UNIFACS with practice in data analysis, cybersecurity, and software development.
+I'm a Computer Engineering student at UNIFACS with practical experience in data analysis, cybersecurity, and software development.
 
 I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications.
 - Gym and gaming are my hobbies
