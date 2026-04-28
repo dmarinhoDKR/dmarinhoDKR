@@ -45,20 +45,6 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ---
 
-## Skills
-
-- Python
-- FastAPI
-- Flutter
-- Streamlit
-- MySQL
-- Git
-- Machine Learning
-- API Development
-- Backend Development
-- Automation
-- Problem Solving
-- Attention to Detail
 
 ---
 
