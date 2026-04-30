@@ -38,9 +38,6 @@ I like building software that solves real problems and helps people in practical
 
 An end-to-end phishing detection platform for URL and email analysis, combining machine learning, backend APIs, and multiple user interfaces.
 
-
-### [More Projects](https://github.com/dmarinhoDKR?tab=repositories)
-
 ---
 
 ## Currently Learning
@@ -51,7 +48,7 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ---
 
-## Connect With Me
+## Find me:
 
 <div align="center">
 
