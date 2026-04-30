@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm a Fullstack Developer, Computer Engineering Student building practical software web and tech that helps people.
+# Hi, I'm a Full-Stack Developer and Computer Engineering student focused on building practical software and web solutions that solve real problems.
 
 
 
@@ -26,7 +26,7 @@ I like building software that solves real problems and helps people in practical
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,mysql,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,mysql,java,js,html,css,php)](https://skillicons.dev)
 
 </div>
 
@@ -42,7 +42,6 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ## Currently Learning
 
-- Software architecture, scalable backend systems, and API development
 - Data analysis, automation pipelines, and intelligence-driven reporting
 - Cybersecurity analysis, threat detection, and security-focused workflows
 
