@@ -26,7 +26,7 @@ I like building software that solves real problems and helps people in practical
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,mysql,java,js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flutter,fastapi,git,mysql,sqlite,java,js,html,css,php)](https://skillicons.dev)
 
 </div>
 
