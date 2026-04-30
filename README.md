@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm a Full-Stack Developer and Computer Engineering student focused on building practical software and web solutions that solve real problems.
+# Hi, I'm a Full-Stack Developer and Computer Engineering student focused on building practical software and web solutions that solve real problems.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Developer;Python+%7C+Fullstack+%7C+Data+Analysis%7C+MySQL;Building+softwares%2C+automation%2C+and+APIs;)](https://git.io/typing-svg)
 
