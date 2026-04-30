@@ -25,6 +25,7 @@ I like building software that solves real problems and helps people in practical
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,fastapi,flutter,js,html,css,mysql,sqlite,git,sklearn,vscode,androidstudio)](https://skillicons.dev)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
