@@ -43,13 +43,6 @@ An end-to-end phishing detection platform for URL and email analysis, combining 
 
 ---
 
-## Currently Learning
-
-- Data analysis, automation pipelines, and intelligence-driven reporting
-- Cybersecurity analysis, threat detection, and security-focused workflows
-
----
-
 ## Find me:
 
 <div align="center">
