@@ -14,7 +14,7 @@
 I'm a Computer Engineering student at UNIFACS with practical experience in software development, data analysis and cybersecurity.
 
 I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications.
-- Interested in fullstack, data, MySQL, cybersecurity, and software development
+- Interested in fullstack, data, cybersecurity, and software development
 - Gym and gaming are my hobbies
 - Open to internships and junior roles
 
