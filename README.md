@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Software+Developer;Fullstack+%7C+Data+Analysis%7C+Cybersec;Building+softwares%2C+automation%2C+and+APIs;)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
-[![Email](https://img.shields.io/badge/Email-danielmarinho.b.f%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
-
-</div>
-
 ---
 
 I'm a Computer Engineering student at UNIFACS with practical experience in software development, data analysis and cybersecurity.
