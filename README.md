@@ -6,7 +6,7 @@
 
 ---
 
-Computer Engineering student at UNIFACS with practical experience in software development, data analysis and cybersecurity.
+Computer Engineering student at UNIFACS with practical experience in artificial intelligence,software development  and data analysis.
 
 I like building software that solves real problems and helps people in practical ways. Most of my work so far has involved Python, APIs, data-driven features, and cross-platform applications. More recently, I built full-stack web applications such as a Customer Support Platform with authentication, dashboard metrics, ticket creation, comments, and status history.
 - Interested in data analysis, software development and cybersecurity
