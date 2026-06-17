@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Daniel, a Computer Engineering student focused on QA, software testing, automation, and practical software solutions.
+# Hi, I'm Daniel, a Computer Engineering student focused on Full Stack, QA, software testing, automation, and practical software solutions.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=QA+%7C+Software+Testing;Python+%7C+APIs+%7C+Automation;Support+Platforms+%7C+Data+Quality;Building+practical+software+solutions)](https://git.io/typing-svg)
 
 ---
 
-Computer Engineering student at UNIFACS with hands-on experience in Quality Assurance, technical support, AI data validation, software development, and data analysis.
+Computer Engineering student at UNIFACS with hands-on experience in Full Stack, Quality Assurance, technical support, AI data validation, software development, and data analysis.
 
 I enjoy working on projects that improve reliability, usability, and the user experience. My current focus is on software testing, API validation, bug analysis, documentation, troubleshooting, and automation with Python.
 
 I have experience reviewing and validating visual data for AI model training, supporting users through digital channels, organizing support requests, identifying recurring issues, and building full-stack projects with authentication, dashboards, tickets, comments, and status history.
 
-- Interested in QA, software testing, automation, technical support, APIs, data analysis, and cybersecurity
+- Interested in Full Stack, QA, software testing, automation, technical support, APIs, data analysis, and cybersecurity
 - Currently improving my skills in test automation, backend APIs, Docker, SQL, and product quality
 - Gym and gaming are my hobbies
 
