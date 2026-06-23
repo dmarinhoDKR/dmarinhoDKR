@@ -51,9 +51,7 @@ I have experience reviewing and validating visual data for AI model training, su
 ## Additional Skills
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-Python%20Scripts-0F172A?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-64748B?style=for-the-badge)
 
 </div>
 
