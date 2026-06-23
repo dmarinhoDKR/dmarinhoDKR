@@ -15,43 +15,40 @@ I have experience reviewing and validating visual data for AI model training, su
 - Currently improving my skills in test automation, backend APIs, Docker, SQL, and product quality
 
 ---
+
 <div align="center">
 
-## Languages & Frameworks
+## Core Stack
 
-[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,cs,js,ts,dotnet,react,fastapi,flutter,html,css)](https://skillicons.dev)
-
-## Databases & Data
-
-[![Databases and Data](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+[![Core Stack](https://skillicons.dev/icons?i=python,cs,js,ts,dotnet,react,fastapi,flutter,html,css,mysql,postgres,sqlite)](https://skillicons.dev)
 
 <br>
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## QA, Testing & APIs
+## Testing & APIs
 
 ![QA](https://img.shields.io/badge/QA-Software%20Testing-22C55E?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Test%20Cases-16A34A?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API%20Testing-REST%20APIs-2563EB?style=for-the-badge)
 ![Pytest](https://img.shields.io/badge/Pytest-Test%20Automation-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-Documentation-F97316?style=for-the-badge)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Support-7C3AED?style=for-the-badge)
 
-## Tools & DevOps
+## Tools & Workflow
 
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,powershell)](https://skillicons.dev)
 
 <br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-0A0A0A?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-64748B?style=for-the-badge)
+
+</div>
+
+
 
 ## Additional Skills
 
