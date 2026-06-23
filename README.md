@@ -48,8 +48,6 @@ I have experience reviewing and validating visual data for AI model training, su
 
 </div>
 
-
-
 ## Additional Skills
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
