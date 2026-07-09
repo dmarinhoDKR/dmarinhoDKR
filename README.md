@@ -1,18 +1,24 @@
 <div align="center">
 
-# Hi, I'm Daniel, a Computer Engineering student focused on Full Stack Development | QA & Test Automation | APIs | Support/Operations Tools and practical software solutions.
+# Hi, I'm Daniel — Computer Engineering student building backend APIs, automated tests, MLOps workflows, and DevOps-ready software projects.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=QA+%7C+Software+Testing;Python+%7C+APIs+%7C+Automation;Support+Platforms+%7C+Data+Quality;Building+practical+software+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Python+Backend+%7C+FastAPI+%7C+REST+APIs;QA+Automation+%7C+Pytest+%7C+API+Testing;Full+Stack+Projects+%7C+React+%7C+.NET;MLOps+%7C+Model+Reliability+%7C+Automation)](https://git.io/typing-svg)
 
 ---
 
-Computer Engineering student at UNIFACS with hands-on experience in Full Stack, Quality Assurance, technical support, AI data validation, software development, and data analysis.
+Computer Engineering student at UNIFACS building practical software projects focused on backend APIs, automated testing, product quality, MLOps, and DevOps-ready workflows.
 
-I enjoy working on projects that improve reliability, usability, and the user experience. My current focus is on software testing, API validation, bug analysis, documentation, troubleshooting, and automation with Python.
+I enjoy working on projects that improve reliability, usability, and maintainability. My current focus is on Python, FastAPI, REST APIs, API validation, pytest, Docker, Git, SQL, documentation, and automation.
 
-I have experience reviewing and validating visual data for AI model training, supporting users through digital channels, organizing support requests, identifying recurring issues, and building full-stack projects with authentication, dashboards, tickets, comments, and status history.
+I have hands-on experience building full-stack and backend-oriented projects with authentication, dashboards, ticket management, API endpoints, structured validation, automated tests, and technical documentation. I am also exploring MLOps practices such as model reliability, reproducible workflows, metrics tracking, and deployment-oriented project structure.
 
-- Currently improving my skills in test automation, backend APIs, Docker, SQL, and product quality
+## Currently Learning
+
+- FastAPI and backend API architecture
+- API testing with pytest and Postman
+- Docker and CI/CD workflows
+- AI-assisted development with Claude Code
+- Agentic MLOps and model reliability practices
 
 ---
 
@@ -43,7 +49,6 @@ I have experience reviewing and validating visual data for AI model training, su
 <br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-64748B?style=for-the-badge)
 
 </div>
