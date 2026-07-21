@@ -2,8 +2,6 @@
 
 # Hi, I'm Daniel — Computer Engineering student building backend APIs, automated tests, MLOps workflows, and DevOps-ready software projects.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Python+Backend+%7C+FastAPI+%7C+REST+APIs;QA+Automation+%7C+Pytest+%7C+API+Testing;Full+Stack+Projects+%7C+React+%7C+.NET;MLOps+%7C+Model+Reliability+%7C+Automation)](https://git.io/typing-svg)
-
 ---
 
 Computer Engineering student at UNIFACS building practical software projects focused on backend APIs, automated testing, product quality, MLOps, and DevOps-ready workflows.
