@@ -1,87 +1,116 @@
 <div align="center">
 
-# Hi, I'm Daniel — Computer Engineering student building backend APIs, automated tests, MLOps workflows, and DevOps-ready software projects.
+# Daniel Marinho
+
+### Backend & AI Engineering Student  
+#### Python · FastAPI · REST APIs · Tests · Docker · MLOps
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Pytest](https://img.shields.io/badge/Tests-0F172A?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MLOps](https://img.shields.io/badge/MLOps-0F172A?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+
+<br>
+
+Computer Engineering student building practical backend, API, automation and AI/ML reliability projects.
+
+I focus on writing clear APIs, validating behavior with tests, documenting decisions, containerizing environments and evolving ML projects toward reproducible, deployment-ready workflows.
+
+</div>
 
 ---
 
-Computer Engineering student at UNIFACS building practical software projects focused on backend APIs, automated testing, product quality, MLOps, and DevOps-ready workflows.
+## What I build
 
-I enjoy working on projects that improve reliability, usability, and maintainability. My current focus is on Python, FastAPI, REST APIs, API validation, pytest, Docker, Git, SQL, documentation, and automation.
-
-I have hands-on experience building full-stack and backend-oriented projects with authentication, dashboards, ticket management, API endpoints, structured validation, automated tests, and technical documentation. I am also exploring MLOps practices such as model reliability, reproducible workflows, metrics tracking, and deployment-oriented project structure.
-
-## Currently Learning
-
-- FastAPI and backend API architecture
-- API testing with pytest and Postman
-- Docker and CI/CD workflows
-- AI-assisted development with Claude Code
-- Agentic MLOps and model reliability practices
+- Backend APIs with **Python, FastAPI, REST, validation and documentation**
+- Testable services using **pytest, API testing, Swagger/OpenAPI and structured error handling**
+- Docker-based environments with **SQL persistence and reproducible setup**
+- AI/ML systems with **model evaluation, inference APIs, metrics and reliability checks**
+- Product-oriented projects involving **dashboards, tickets, incidents, support flows and automation**
 
 ---
-
-<div align="center">
 
 ## Core Stack
 
-[![Core Stack](https://skillicons.dev/icons?i=python,cs,js,ts,dotnet,react,fastapi,flutter,html,css,mysql,postgres,sqlite)](https://skillicons.dev)
-
-<br>
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-## Testing & APIs
-
-![QA](https://img.shields.io/badge/QA-Software%20Testing-22C55E?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API%20Testing-REST%20APIs-2563EB?style=for-the-badge)
-![Pytest](https://img.shields.io/badge/Pytest-Test%20Automation-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-## Tools & Workflow
-
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,powershell)](https://skillicons.dev)
-
-<br>
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-64748B?style=for-the-badge)
-
-</div>
-
-## Additional Skills
-
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Python%20Scripts-0F172A?style=for-the-badge)
-
-</div>
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python, FastAPI, REST APIs, Pydantic, Swagger/OpenAPI</td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>pytest, API validation, Postman, automated checks, regression scenarios</td>
+  </tr>
+  <tr>
+    <td><strong>Data & AI</strong></td>
+    <td>scikit-learn, MLflow, model metrics, inference APIs, basic MLOps workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>SQL, PostgreSQL, SQLite, SQL Server</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Docker, Docker Compose, Git, GitHub Actions, Linux/WSL</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Support</strong></td>
+    <td>React, TypeScript, HTML, CSS, Streamlit</td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-### [Phishing Detection Platform](https://github.com/dmarinhoDKR/phishing-detection-platform)
-
-End-to-end phishing detection platform for URL and email analysis, combining machine learning, API development, structured logs, test cases, and multiple interfaces.
-
-This project strengthens my experience with QA-oriented validation, edge-case analysis, API behavior, automated checks, data quality, and product reliability.
-
-### [Customer Support Platform](https://github.com/dmarinhoDKR/customer-support-platform)
-
-Full-stack ticket management application built with React, ASP.NET Core Web API, SQL Server, and Docker.
-
-Features include JWT authentication, dashboard metrics, ticket creation, filtering, detailed ticket views, comments, assignment, and status history. This project reflects my interest in support operations, issue tracking, product quality, and user-centered problem solving.
+| Project | Focus | Stack | Highlights |
+|---|---|---|---|
+| [Agentic MLOps Phishing Platform](https://github.com/dmarinhoDKR/agentic-mlops-phishing-platform) | AI Engineering · MLOps · Backend | Python, FastAPI, MLflow, Docker, pytest | Training pipeline, evaluation flow, inference API, CI, deterministic copilot and local RAG knowledge base |
+| [Phishing Detection Platform](https://github.com/dmarinhoDKR/phishing-detection-platform) | ML Product · API · Security | Python, FastAPI, scikit-learn, Streamlit, Flutter | URL/email phishing detection, model metrics, structured analysis, API and multiple interfaces |
+| [Customer Support Platform](https://github.com/dmarinhoDKR/customer-support-platform) | Full-stack Product · Support Ops | React, TypeScript, ASP.NET Core, SQL Server, Docker | JWT auth, dashboard, ticket creation, filtering, comments, assignment and status history |
+| [CRUD API Assignment](https://github.com/dmarinhoDKR/crud-api-assignment) | Backend Fundamentals | Python, FastAPI, SQLite | Layered architecture, validation, persistent storage, JSON errors and Swagger documentation |
+| [API Endpoint Assignment](https://github.com/dmarinhoDKR/api-endpoint-assignment) | Backend · Docker · PostgreSQL | FastAPI, PostgreSQL, Docker Compose | Repository pattern, persistent storage, environment configuration and containerized stack |
 
 ---
 
-## Find me
+## Current Focus
+
+| Area | Focus level |
+|---|---|
+| Backend Engineering | ███████████████████░░ |
+| API Testing & Quality | ██████████████████░░░ |
+| Docker & DevOps Basics | ████████████████░░░░░ |
+| AI/ML Engineering | ███████████████░░░░░░ |
+| MLOps & Reliability | █████████████░░░░░░░░ |
+
+I am currently improving my skills in:
+
+- FastAPI architecture and clean backend design
+- Automated API testing and regression validation
+- Dockerized development environments
+- Model evaluation, metrics tracking and inference APIs
+- MLOps workflows and AI-assisted software engineering
+
+---
+
+## How I work
+
+- I build projects incrementally: **implement → test → document → version**
+- I care about readable code, reproducible setup and clear technical decisions
+- I prefer small, working systems with evidence over unfinished large ideas
+- I use AI tools as support for study, debugging and planning, while keeping responsibility over final code and decisions
+
+---
+
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
-           
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marinho-b-f/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmarinho.b.f@gmail.com)
 
 </div>
