@@ -65,18 +65,6 @@ I focus on writing clear APIs, validating behavior with tests, documenting decis
 
 ---
 
-## Featured Projects
-
-| Project | Focus | Stack | Highlights |
-|---|---|---|---|
-| [Agentic MLOps Phishing Platform](https://github.com/dmarinhoDKR/agentic-mlops-phishing-platform) | AI Engineering · MLOps · Backend | Python, FastAPI, MLflow, Docker, pytest | Training pipeline, evaluation flow, inference API, CI, deterministic copilot and local RAG knowledge base |
-| [Phishing Detection Platform](https://github.com/dmarinhoDKR/phishing-detection-platform) | ML Product · API · Security | Python, FastAPI, scikit-learn, Streamlit, Flutter | URL/email phishing detection, model metrics, structured analysis, API and multiple interfaces |
-| [Customer Support Platform](https://github.com/dmarinhoDKR/customer-support-platform) | Full-stack Product · Support Ops | React, TypeScript, ASP.NET Core, SQL Server, Docker | JWT auth, dashboard, ticket creation, filtering, comments, assignment and status history |
-| [CRUD API Assignment](https://github.com/dmarinhoDKR/crud-api-assignment) | Backend Fundamentals | Python, FastAPI, SQLite | Layered architecture, validation, persistent storage, JSON errors and Swagger documentation |
-| [API Endpoint Assignment](https://github.com/dmarinhoDKR/api-endpoint-assignment) | Backend · Docker · PostgreSQL | FastAPI, PostgreSQL, Docker Compose | Repository pattern, persistent storage, environment configuration and containerized stack |
-
----
-
 I am currently improving my skills in:
 
 - FastAPI architecture and clean backend design
