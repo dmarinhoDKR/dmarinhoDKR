@@ -1,3 +1,8 @@
+<p align="right">
+  <strong>English</strong> |
+  <a href="./README.pt-BR.md">Português</a>
+</p>
+
 <div align="center">
 
 # Daniel Marinho
