@@ -77,16 +77,6 @@ I focus on writing clear APIs, validating behavior with tests, documenting decis
 
 ---
 
-## Current Focus
-
-| Area | Focus level |
-|---|---|
-| Backend Engineering | ███████████████████░░ |
-| API Testing & Quality | ██████████████████░░░ |
-| Docker & DevOps Basics | ████████████████░░░░░ |
-| AI/ML Engineering | ███████████████░░░░░░ |
-| MLOps & Reliability | █████████████░░░░░░░░ |
-
 I am currently improving my skills in:
 
 - FastAPI architecture and clean backend design
