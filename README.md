@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Daniel Marinho
+# Daniel Figueredo
 
 ### Backend & AI Engineering Student  
 #### Python · FastAPI · REST APIs · Tests · Docker · MLOps
